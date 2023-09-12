@@ -1,0 +1,6 @@
+Model/Author.class
+Model/Category.class
+Dao/AuthorRepository.class
+Dao/BookRepository.class
+Service/EstirmeceService.class
+Model/Book.class
